@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend Java`**
 
-Me chamo Erick Tiepo, tenho 22 anos e moro em Mangueirinha, Paraná. Atualmente, estou cursando bacharelado em Sistemas de Informação no IFPR. Sou apaixonado por tecnologia e tenho como foco principal me desenvolver como Desenvolvedor Backend Java, com ênfase no framework Spring Boot.
+Me chamo Erick Tiepo, tenho 22 anos. Atualmente, estou cursando bacharelado em Sistemas de Informação no IFPR. Sou apaixonado por tecnologia e tenho como foco principal me desenvolver como Desenvolvedor Backend Java, com ênfase no framework Spring Boot.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/erick-tiepo-596750278/">
